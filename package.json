@@ -1,0 +1,17 @@
+{
+  "name": "azure-storage-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/identity": "^4.13.0",
+    "@azure/storage-blob": "^12.29.1"
+  }
+}
